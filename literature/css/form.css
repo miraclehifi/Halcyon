@@ -1,0 +1,11 @@
+.space{width:30%}
+.tbl-content {
+    height: 430px;
+    width: 50%;
+    overflow-x: auto;
+    margin: 5%;
+    margin-left: 1%;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 2%;
+
+}
